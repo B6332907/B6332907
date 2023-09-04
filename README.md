@@ -8,7 +8,7 @@
 
 🚀 I'm passionate about **frontend development** and have experience with various tools and languages.
 
-
+📘I'm currently studying mobile application **flutter** framework.
 ## Skills
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
